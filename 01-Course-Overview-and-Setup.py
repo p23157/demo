@@ -4,6 +4,7 @@
 # MAGIC ## ETL Part 1: Data Extraction
 # MAGIC 
 # MAGIC In this course data engineers access data where it lives and then apply data extraction best practices, including schemas, corrupt record handling, and parallelized code. By the end of this course, you will extract data from multiple sources, use schema inference and apply user-defined schemas, and navigate Databricks and Spark documents to source solutions.
+# MAGIC TEST from GIT
 
 # COMMAND ----------
 
